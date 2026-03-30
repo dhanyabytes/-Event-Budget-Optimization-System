@@ -37,6 +37,5 @@ Then it tells you how to split your money in a way that makes sense.
 
 To use the event budget planner open a terminal and type the following command:
 
-```bash
-
-python main.py
+bash
+main.py
